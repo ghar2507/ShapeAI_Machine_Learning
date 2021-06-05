@@ -1,35 +1,27 @@
-NOTICE FINAL REGISTRATION (Python and Machine Learning)
+# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Machine Learning
+<li>Tensorflow
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
 
-Now we will be starting with the final registration for the 7 days Bootcamp 
-
-ONLY THE FINAL REGISTERED STUDENTS WILL BE ELIGIBLE FOR THE CERTIFICATES ON COMPLETION OF THE BOOTCAMP
-
-To complete your FINAL REGISTRATION, you have to do this.
-1. Share Information of Current Bootcamp Along with the Poster in 5 WhatsApp group of your college and upload the 5(5 Group chat) screenshot showing that you have shared it with them).
-
-GOOGLE FORM FOR FINAL REGISTRATION:
-
-https://forms.gle/NmrpfDU9m4JnL2WA8
-: 7 Days, Certified, Free Python and  Machine  Learning Bootcamp RSVP (25th May to 31th May)
-
-📢Here we bring our another free live BOOTCAMP with a hands on project at the end;
-
-Python and  Machine Learning - 
-
-The Foundation of Data Science 🖥 
-
-Prerequisite : None
-
-Duration- 7 days (25th May onwards) 
-
-Topics to be covered-
-• INTRO TO PROGRAMMING IN PYTHON
-• FOUNDATIONAL KNOWLEDGE IN AI AND DATA SCIENCE
-• INTRODUCTION TO MACHINE LEARNING 
-• HANDS ON PROJECT
-And much more... 
-
-So what are you waiting for? Learn from upcoming intern at JIO, Microsoft and Goldman Sachs. And get CERTIFIED✨ at the end.
-
-Hurry! Register now: 
- https://forms.gle/NrJARD2rtizUcc3V8
